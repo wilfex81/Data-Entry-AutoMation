@@ -1,0 +1,10 @@
+requests==2.31.0
+pydantic==2.5.2
+python-dotenv==1.0.0
+pandas==2.1.1
+phonenumbers==8.13.23
+validators==0.22.0
+loguru==0.7.2
+pytest==7.4.0
+psycopg2-binary==2.9.9
+alembic==1.12.0

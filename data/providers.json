@@ -1,0 +1,416 @@
+[
+  {
+    "provider_id": "MP-12345",
+    "provider_name": "Greenwood Medical Center",
+    "provider_type": "hospital",
+    "address": {
+      "street1": "1250 Main Street",
+      "street2": "Suite 300",
+      "city": "Boston",
+      "state": "MA",
+      "zip_code": "02110",
+      "country": "USA"
+    },
+    "contact_info": {
+      "phone_number": "617-555-0123",
+      "fax": "617-555-0124",
+      "email": "info@greenwoodmed.org",
+      "website": "https://www.greenwoodmed.org"
+    },
+    "services": [
+      "primary_care",
+      "emergency",
+      "surgery",
+      "diagnostic"
+    ],
+    "accreditations": [
+      {
+        "organization": "Joint Commission",
+        "license_number": "JC-235689",
+        "issue_date": "2023-03-15",
+        "expiration_date": "2026-03-15"
+      },
+      {
+        "organization": "American Hospital Association",
+        "license_number": "AHA-542178",
+        "issue_date": "2023-01-10",
+        "expiration_date": "2026-01-10"
+      }
+    ],
+    "specialties": [
+      "Cardiology",
+      "Neurology",
+      "Orthopedics"
+    ],
+    "languages": [
+      "English",
+      "Spanish",
+      "Portuguese"
+    ],
+    "insurance_accepted": [
+      "Blue Cross Blue Shield",
+      "Medicare",
+      "Aetna",
+      "UnitedHealthcare"
+    ]
+  },
+  {
+    "provider_id": "MP-67890",
+    "provider_name": "Riverview Pediatrics",
+    "provider_type": "clinic",
+    "address": {
+      "street1": "478 Brookside Avenue",
+      "street2": null,
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "10023",
+      "country": "USA"
+    },
+    "contact_info": {
+      "phone_number": "212-555-9876",
+      "fax": "212-555-9877",
+      "email": "appointments@riverviewpediatrics.com",
+      "website": "https://www.riverviewpediatrics.com"
+    },
+    "services": [
+      "pediatrics",
+      "primary_care",
+      "other"
+    ],
+    "accreditations": [
+      {
+        "organization": "American Academy of Pediatrics",
+        "license_number": "AAP-123456",
+        "issue_date": "2024-01-05",
+        "expiration_date": "2027-01-05"
+      }
+    ],
+    "specialties": [
+      "Child Development",
+      "Adolescent Health",
+      "Behavioral Health"
+    ],
+    "languages": [
+      "English",
+      "Spanish",
+      "Mandarin"
+    ],
+    "insurance_accepted": [
+      "Blue Cross Blue Shield",
+      "Cigna",
+      "Aetna",
+      "UnitedHealthcare",
+      "NYS Medicaid"
+    ]
+  },
+  {
+    "provider_id": "MP-24680",
+    "provider_name": "Bay Area Rehabilitation Center",
+    "provider_type": "rehabilitation",
+    "address": {
+      "street1": "825 Pacific Boulevard",
+      "street2": "Building C",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip_code": "94109",
+      "country": "USA"
+    },
+    "contact_info": {
+      "phone_number": "415-555-3456",
+      "fax": "415-555-3457",
+      "email": "info@bayarearehabcenter.com",
+      "website": "https://www.bayarearehabcenter.org"
+    },
+    "services": [
+      "rehabilitation",
+      "specialty_care",
+      "other"
+    ],
+    "accreditations": [
+      {
+        "organization": "Commission on Accreditation of Rehabilitation Facilities",
+        "license_number": "CARF-786542",
+        "issue_date": "2024-02-20",
+        "expiration_date": "2027-02-20"
+      },
+      {
+        "organization": "American Physical Therapy Association",
+        "license_number": "APTA-089765",
+        "issue_date": "2023-11-15",
+        "expiration_date": "2026-11-15"
+      }
+    ],
+    "specialties": [
+      "Neurological Rehabilitation",
+      "Sports Medicine",
+      "Post-Surgical Rehabilitation"
+    ],
+    "languages": [
+      "English",
+      "Cantonese",
+      "Spanish",
+      "Tagalog"
+    ],
+    "insurance_accepted": [
+      "Blue Shield of California",
+      "Medicare",
+      "Anthem",
+      "Kaiser Permanente",
+      "TRICARE"
+    ]
+  },
+  {
+    "provider_id": "MP-13579",
+    "provider_name": "Lakeside Family Practice",
+    "provider_type": "primary_care",
+    "address": {
+      "street1": "1423 Lakeview Drive",
+      "street2": "Suite 101",
+      "city": "Chicago",
+      "state": "IL",
+      "zip_code": "60607",
+      "country": "USA"
+    },
+    "contact_info": {
+      "phone_number": "312-555-7890",
+      "fax": "312-555-7891",
+      "email": "reception@lakesidefamily.org",
+      "website": "https://www.lakesidefamilypractice.com"
+    },
+    "services": [
+      "primary_care",
+      "specialty_care",
+      "other"
+    ],
+    "accreditations": [
+      {
+        "organization": "American Board of Family Medicine",
+        "license_number": "ABFM-675432",
+        "issue_date": "2023-07-12",
+        "expiration_date": "2026-07-12"
+      }
+    ],
+    "specialties": [
+      "Family Medicine",
+      "Geriatric Care",
+      "Chronic Disease Management"
+    ],
+    "languages": [
+      "English",
+      "Polish",
+      "Spanish"
+    ],
+    "insurance_accepted": [
+      "Blue Cross Blue Shield of Illinois",
+      "Medicare",
+      "Humana",
+      "Cigna",
+      "UnitedHealthcare"
+    ]
+  },
+  {
+    "provider_id": "MP-97531",
+    "provider_name": "Desert Sun Imaging Center",
+    "provider_type": "diagnostic",
+    "address": {
+      "street1": "7890 Cactus Road",
+      "street2": null,
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip_code": "85020",
+      "country": "USA"
+    },
+    "contact_info": {
+      "phone_number": "602-555-2345",
+      "fax": "602-555-2346",
+      "email": "scheduling@desertsunimaging.com",
+      "website": "https://www.desertsunimaging.com"
+    },
+    "services": [
+      "diagnostic",
+      "specialty_care",
+      "other"
+    ],
+    "accreditations": [
+      {
+        "organization": "American College of Radiology",
+        "license_number": "ACR-345678",
+        "issue_date": "2023-09-05",
+        "expiration_date": "2026-09-05"
+      }
+    ],
+    "specialties": [
+      "Mammography",
+      "Neuroimaging",
+      "Cardiovascular Imaging"
+    ],
+    "languages": [
+      "English",
+      "Spanish",
+      "Navajo"
+    ],
+    "insurance_accepted": [
+      "Blue Cross Blue Shield of Arizona",
+      "Medicare",
+      "UnitedHealthcare",
+      "Cigna",
+      "TRICARE"
+    ]
+  },
+  {
+    "provider_id": "MP-54321",
+    "provider_name": "Evergreen Mental Health Associates",
+    "provider_type": "mental_health",
+    "address": {
+      "street1": "567 Pine Street",
+      "street2": "Floor 3",
+      "city": "Seattle",
+      "state": "WA",
+      "zip_code": "98101",
+      "country": "USA"
+    },
+    "contact_info": {
+      "phone_number": "206-555-6789",
+      "fax": "206-555-6790",
+      "email": "intake@evergreenmh.org",
+      "website": "https://www.evergreenmh.org"
+    },
+    "services": [
+      "mental_health",
+      "specialty_care",
+      "other"
+    ],
+    "accreditations": [
+      {
+        "organization": "Commission on Accreditation of Rehabilitation Facilities",
+        "license_number": "CARF-456789",
+        "issue_date": "2023-05-10",
+        "expiration_date": "2026-05-10"
+      }
+    ],
+    "specialties": [
+      "Depression and Anxiety",
+      "Trauma Recovery",
+      "Addiction Treatment"
+    ],
+    "languages": [
+      "English",
+      "Vietnamese",
+      "Spanish"
+    ],
+    "insurance_accepted": [
+      "Premera Blue Cross",
+      "Regence",
+      "Medicare",
+      "Kaiser Permanente",
+      "Molina Healthcare"
+    ]
+  },
+  {
+    "provider_id": "MP-86420",
+    "provider_name": "Memorial Children's Hospital",
+    "provider_type": "hospital",
+    "address": {
+      "street1": "4200 Children's Way",
+      "street2": null,
+      "city": "Dallas",
+      "state": "TX",
+      "zip_code": "75235",
+      "country": "USA"
+    },
+    "contact_info": {
+      "phone_number": "214-555-1234",
+      "fax": "214-555-1235",
+      "email": "info@memorialchildrens.org",
+      "website": "https://www.memorialchildrens.org"
+    },
+    "services": [
+      "pediatrics",
+      "emergency",
+      "surgery",
+      "specialty_care",
+      "diagnostic"
+    ],
+    "accreditations": [
+      {
+        "organization": "Joint Commission",
+        "license_number": "JC-987654",
+        "issue_date": "2023-04-20",
+        "expiration_date": "2026-04-20"
+      },
+      {
+        "organization": "American Academy of Pediatrics",
+        "license_number": "AAP-654321",
+        "issue_date": "2023-06-15",
+        "expiration_date": "2026-06-15"
+      }
+    ],
+    "specialties": [
+      "Pediatric Oncology",
+      "Pediatric Cardiology",
+      "Neonatal Care",
+      "Pediatric Neurology"
+    ],
+    "languages": [
+      "English",
+      "Spanish",
+      "Vietnamese",
+      "Arabic"
+    ],
+    "insurance_accepted": [
+      "Blue Cross Blue Shield of Texas",
+      "Medicare",
+      "Medicaid",
+      "Aetna",
+      "UnitedHealthcare",
+      "TRICARE"
+    ]
+  },
+  {
+    "provider_id": "MP-75310",
+    "provider_name": "Oceanside Dental Group",
+    "provider_type": "dental",
+    "address": {
+      "street1": "321 Coast Highway",
+      "street2": "Suite 200",
+      "city": "Miami",
+      "state": "FL",
+      "zip_code": "33139",
+      "country": "USA"
+    },
+    "contact_info": {
+      "phone_number": "305-555-8765",
+      "fax": "305-555-8766",
+      "email": "appointments@oceansidedental.com",
+      "website": "https://www.oceansidedental.com"
+    },
+    "services": [
+      "specialty_care",
+      "other"
+    ],
+    "accreditations": [
+      {
+        "organization": "American Dental Association",
+        "license_number": "ADA-567890",
+        "issue_date": "2023-08-01",
+        "expiration_date": "2026-08-01"
+      }
+    ],
+    "specialties": [
+      "Implant Dentistry",
+      "Pediatric Dentistry",
+      "Oral Surgery"
+    ],
+    "languages": [
+      "English",
+      "Spanish",
+      "Haitian Creole"
+    ],
+    "insurance_accepted": [
+      "Delta Dental",
+      "Cigna Dental",
+      "Aetna Dental",
+      "MetLife Dental"
+    ]
+  }
+]

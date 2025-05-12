@@ -1,0 +1,204 @@
+[
+  {
+    "provider_name": "Metropolis General Hospital",
+    "provider_type": "hospital",
+    "address": {
+      "street1": "123 Main Street",
+      "street2": "Building A",
+      "city": "Metropolis",
+      "state": "NY",
+      "zip_code": "10001"
+    },
+    "contact_info": {
+      "phone_number": "+12125551234",
+      "fax": "+12125555678",
+      "email": "info@metropolisgeneral.org",
+      "website": "https://www.metropolisgeneral.org"
+    },
+    "services": [
+      "emergency",
+      "surgery",
+      "diagnostic",
+      "rehabilitation"
+    ],
+    "accreditations": [
+      {
+        "organization": "Joint Commission",
+        "license_number": "JC12345678",
+        "issue_date": "2023-01-15",
+        "expiration_date": "2026-01-15"
+      },
+      {
+        "organization": "American Hospital Association",
+        "license_number": "AHA87654321",
+        "issue_date": "2023-03-10",
+        "expiration_date": "2026-03-10"
+      }
+    ],
+    "specialties": [
+      "Cardiology",
+      "Neurology",
+      "Orthopedics"
+    ],
+    "languages": [
+      "English",
+      "Spanish",
+      "Mandarin"
+    ],
+    "insurance_accepted": [
+      "Medicare",
+      "Medicaid",
+      "Blue Cross",
+      "Aetna",
+      "UnitedHealthcare"
+    ]
+  },
+  {
+    "provider_name": "Westside Family Clinic",
+    "provider_type": "clinic",
+    "address": {
+      "street1": "456 West Avenue",
+      "city": "Metropolis",
+      "state": "NY",
+      "zip_code": "10002"
+    },
+    "contact_info": {
+      "phone_number": "+12125552345",
+      "email": "appointments@westsidefamily.com",
+      "website": "https://www.westsidefamily.com"
+    },
+    "services": [
+      "primary_care",
+      "pediatrics"
+    ],
+    "accreditations": [
+      {
+        "organization": "American Medical Association",
+        "license_number": "AMA55667788",
+        "issue_date": "2022-09-20",
+        "expiration_date": "2025-09-20"
+      }
+    ],
+    "specialties": [
+      "Family Medicine",
+      "Pediatrics"
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "insurance_accepted": [
+      "Medicare",
+      "Blue Cross",
+      "Cigna"
+    ]
+  },
+  {
+    "provider_name": "Dr. Sarah Johnson",
+    "provider_type": "individual provider",
+    "address": {
+      "street1": "789 Park Street",
+      "suite": "Suite 301",
+      "city": "Metropolis",
+      "state": "NY",
+      "zip_code": "10003"
+    },
+    "contact_info": {
+      "phone_number": "+12125553456",
+      "email": "dr.johnson@metrohealth.net"
+    },
+    "services": [
+      "specialty_care"
+    ],
+    "accreditations": [
+      {
+        "organization": "American Board of Dermatology",
+        "license_number": "ABD112233",
+        "issue_date": "2021-05-12",
+        "expiration_date": "2031-05-12"
+      }
+    ],
+    "specialties": [
+      "Dermatology"
+    ],
+    "languages": [
+      "English",
+      "French"
+    ],
+    "insurance_accepted": [
+      "Medicare",
+      "Blue Cross",
+      "Aetna"
+    ]
+  },
+  {
+    "provider_name": "Eastside Community Hospital",
+    "provider_type": "hospital",
+    "address": {
+      "street1": "321 East Boulevard",
+      "city": "Springfield",
+      "state": "NY",
+      "zip_code": "10101"
+    },
+    "contact_info": {
+      "phone_number": "2125554567",
+      "fax": "2125556789",
+      "email": "info@eastsidehospital.org",
+      "website": "http://eastsidehospital.org"
+    },
+    "services": [
+      "emergency",
+      "surgery",
+      "obstetrics"
+    ],
+    "accreditations": [
+      {
+        "organization": "Joint Commission",
+        "license_number": "JC98765432",
+        "issue_date": "2022-07-01",
+        "expiration_date": "2025-07-01"
+      }
+    ],
+    "specialties": [
+      "General Surgery",
+      "Obstetrics",
+      "Emergency Medicine"
+    ],
+    "insurance_accepted": [
+      "Medicare",
+      "Medicaid",
+      "Blue Cross"
+    ]
+  },
+  {
+    "provider_name": "Metropolis General Hospital",
+    "provider_type": "hospital",
+    "address": {
+      "street1": "123 Main St",
+      "city": "Metropolis",
+      "state": "NY",
+      "zip_code": "10001"
+    },
+    "contact_info": {
+      "phone_number": "+1-212-555-1234",
+      "email": "contact@metropolisgeneral.org",
+      "website": "https://www.metropolisgeneral.org"
+    },
+    "services": [
+      "emergency",
+      "diagnostic"
+    ],
+    "accreditations": [
+      {
+        "organization": "Joint Commission",
+        "license_number": "JC12345678",
+        "issue_date": "2023-01-15",
+        "expiration_date": "2026-01-15"
+      }
+    ],
+    "specialties": [
+      "Cardiology",
+      "Neurology"
+    ]
+  }
+]
